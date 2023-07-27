@@ -1,3 +1,6 @@
 http://kocw-n.xcache.kinxcdn.com/data/document/2021/dju/choyeongbok1006/03-1.pdf
 
 https://beam.apache.org/documentation/transforms/python/aggregation/combineperkey/
+* Dataflow : Apache Beam기반
+1. DirectRunner : 로컬에서 실행
+2. DataflowRunner : 클라우드에서 job 수행
