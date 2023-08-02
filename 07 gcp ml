@@ -1,3 +1,3 @@
-* matrix factorization : Linear Regression의 단점인 interaction 미반영릏 보완하기위해
+* matrix factorization : Linear Regression의 단점인 interaction 미반영을 보완하기위해
      LR에 추가로 피쳐간 곱셈을 사용하여 구현,계산량이 많아지므로 행렬의 고유값 분해를 사용하여
      계산량을 줄임, 추천시스템에 많이 사용됨
